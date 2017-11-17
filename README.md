@@ -12,3 +12,13 @@ The database is implemented using the MySQL server software. The database is con
 Wireless users using OFDM physical layer and accessing the 20MHz channel following SA-based rules is implemented using the Wireless Open Access Research Platform (WARP) boards. At the heart of this design is a Xilinx Virtex-family Pro FPGA. This family of FPGAs is very well suited for the real-time DSP-intensive operations required by SA algorithms. Real-time events showing successful implementation of access based on temporal sharing with a rotating radars system will be demonstrated for eWINE Challenge. The outputs of successful implementation will be graphically demonstrated using a realtime spectrum analyzer manufactured by the Aaronia AG.
 ## Algorithmic Description
 ### Database-assisted access in the rotating radar
+![Alt text](https://user-images.githubusercontent.com/24733570/32943015-11fb2d8a-cb8b-11e7-9267-c87325782768.png)
+# Refernce 
+If you want more information, then your can refer to our publised paper. In addition, if you find any information in the content that is help for your research, then please cite the paper in your work.
+
+*Khan Z, Lehtomäki JJ, Aguilar-Gonzalez R, Vuohtoniemi R, Hossain E, DaSilva LA, Marshall A. Database-Assisted Distributed and Cloud-Based Access Methods for Unlicensed and Radar Bands. IEEE Transactions on Cognitive Communications and Networking. 2017 Sep;3(3):404-19.*
+
+# Contact 
+zaheer.khan@oulu.fi
+
+
